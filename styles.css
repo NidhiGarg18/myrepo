@@ -1,0 +1,9 @@
+body{
+    background:linear-gradient(to right, rgb(121, 121, 246),rgb(242, 101, 101),rgb(237, 74, 101),rgb(243, 243, 107));
+    align-items: center;
+    height: 100;
+}
+h1{
+    font-size: 25;
+    text-align: center;
+}
